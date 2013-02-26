@@ -4,7 +4,7 @@
 
 This is a little tool that will dump session data from ASP.NET 2.0 into a JSON file.
 
-This snippet comes from devnull in the [asp.net forums] (http://forums.asp.net/t/978762.aspx/1)
+This snippet comes from [devnull] (http://forums.asp.net/members/devnull.aspx) in the [asp.net forums] (http://forums.asp.net/t/978762.aspx/1)
 
 ## Usage
 
